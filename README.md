@@ -1,0 +1,2 @@
+# ZXingDemo
+根据google提供的ZXing做的二维码扫描demo
